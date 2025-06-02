@@ -45,10 +45,29 @@ Menambahkan istilah RME (Rekam Medis Elektronik)
 
 ### Istilah Asing
 
-| Prefetching | Precaching | Server | Website |
-| Enterprise | Browsing | Cache | Framework |
-| Browser | Real-time | Hybrid | Markov Chain |
-| Roadmap | Loading | Client-side | Server-side |
-| Resource | WebPrefetcher | WebProfiler | Bandwith |
-| Hit ratio | Monilitic | Microservice | IndexedDB |
-| Database | Endpoint | | |
+- Prefetching
+- Precaching
+- Server
+- Website
+- Enterprise
+- Browsing
+- Cache
+- Framework
+- Browser
+- Real-time
+- Hybrid
+- Markov Chain
+- Roadmap
+- Loading
+- Client-side
+- Server-side
+- Resource
+- WebPrefetcher
+- WebProfiler
+- Bandwith
+- Hit ratio
+- Monilitic
+- Microservice
+- IndexedDB
+- Database
+- Endpoint
