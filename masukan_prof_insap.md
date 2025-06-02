@@ -34,15 +34,15 @@ Menambahkan narasi pengantar
 
 ### Komentar tentang tata tulis:
 
-- [x] Judulnya terlalu panjang, barangkali bisa dipersingkat
-- [x] Istilah Bahasa Inggris harus ditulis miring
-- [ ] Jangan memulai kalimat atau alinea dengan kata sambung, dan jangan menggunakan Gerund sebagai subyek (Gerund adalah kata kerja yang dibendakan)
+- [x] Judulnya terlalu panjang, barangkali bisa dipersingkat -> sudah dipersingkat
+- [x] Istilah Bahasa Inggris harus ditulis miring -> sudah disesuaikan
+- [x] Jangan memulai kalimat atau alinea dengan kata sambung, dan jangan menggunakan Gerund sebagai subyek (Gerund adalah kata kerja yang dibendakan) -> untuk kata sambung sudah disesuaikan, kalimat dengan Gerund sebagai subjek sudah diubah struktur kalimatnya
 
 ### Komentar substansi:
 
-- [x] Rumusan Masalah yang dituliskan lebih tepat disebut Pertanyaan Penelitian --> Rumusan Masalah mestinya berupa kalimat berita
-- [ ] Proses yang dilakukan kurang jelas. Ada baiknya diberikan semacam diagram yang menunjukkan alur dari pengambilan data sampai ke langkah terakhir, sehingga terlihat kegunaan Markovnya
-- [x] Tambahkan keterbatasan penelitian pada akhir dari Bab IV sebagai dasar dari Saran
+- [x] Rumusan Masalah yang dituliskan lebih tepat disebut Pertanyaan Penelitian --> Rumusan Masalah mestinya berupa kalimat berita -> Sudah disesuaikan
+- [x] Proses yang dilakukan kurang jelas. Ada baiknya diberikan semacam diagram yang menunjukkan alur dari pengambilan data sampai ke langkah terakhir, sehingga terlihat kegunaan Markovnya -> Sudah diperjelas dengan ilustrasi pada bagian metodologi sesuai masukan diskusi saat pra pendadaran
+- [x] Tambahkan keterbatasan penelitian pada akhir dari Bab IV sebagai dasar dari Saran -> Sudah ditambahkan, narasi bagian saran sudah disesuaikan
 
 Saran Perbaikan:
 Perbaiki naskah berdasar komentar di atas 

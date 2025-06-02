@@ -17,15 +17,15 @@ Menambahkan narasi terkait penjelasan ruang lingkup enterprise architecture dala
 - [x] rumusan masalah -> disesuaikan dengan masukan prof Insap
 - [x] pre-fetching tiba2 muncul di rumusan masalah -> sudah ditambahkan narasi penghubung pada bagian latar belakang untuk melengkapi rumusan masalah
 
-- [x] korelasi di metodologi -> sudah ditambahkan korelasi pada metodologi
+- [x] korelasi di metodologi -> sudah disesuaikan narasi korelasi pada latar belakang, rumusan masalah, dan pertanyaan penelitian dan metodologi
 
 - [x] arsitektur harus muncul di rumusan/tujuan penelitian -> sudah ditambahkan pada rumusan masalah dan tujuan penelitian
-- [x] kaitan dengan TOGAF? -> sudah ditambahkan
+- [x] kaitan dengan TOGAF? -> sudah ditambahkan di latar belakang, rumusan masalah, dan metodologi
 
-- [x] hasil kuantitatif deployment? -> hasil kuantitatif untuk model prediksi yang dibangun
+- [x] hasil kuantitatif deployment? -> ruang lingkup penelitian pada perancangan arsitektur, belum sampai tahap deployment, sudah diakui dalam keterbatasan penelitian
 
-- [x] cara evaluasi sistem? -> evaluasi pada kesesuaian rancangan dengan kebutuhan organisasi, dilakukan pada setiap fase TOGAF
-- [x] tentang ML-nya -> sudah ditambahkan pseudocode untuk proses pembangunan model
+- [x] cara evaluasi sistem? -> evaluasi pada kesesuaian rancangan arsitektur dengan kebutuhan organisasi dan metode TOGAF ADM
+- [x] tentang ML-nya -> sudah ditambahkan pseudocode untuk proses ekstraksi dan normalisasi data untuk penyiapan dataset, dan pseudocode pembangunan model
 
 Saran Perbaikan:
 Perbaiki naskah dan presentasi sesuai poin-poin di atas dan hasil diskusi saat pra-pendadaran. 
