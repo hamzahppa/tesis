@@ -19,3 +19,21 @@
 - Microservice
 - Database
 - Endpoint 
+- epoch
+- batch size
+- training
+- dataset
+- embedding
+- output
+- predictive
+- log line
+- dashboard
+- stakeholder
+- accuracy
+- parsing
+- pipeline
+- plugin
+- backend
+- deployment
+- legacy
+- event
