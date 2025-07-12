@@ -13,9 +13,8 @@
 - Roadmap
 - Loading
 - Resource
-- Bandwith
+- Bandwidth
 - Hit ratio
-- Monilitic
 - Microservice
 - Database
 - Endpoint 
@@ -27,13 +26,16 @@
 - output
 - predictive
 - log line
+- baseline
+- online
 - dashboard
 - stakeholder
 - accuracy
 - parsing
 - pipeline
-- plugin
 - backend
 - deployment
 - legacy
 - event
+- error
+- noise
